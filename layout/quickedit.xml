@@ -1,0 +1,11 @@
+<dialogbox id="dlgEdit">
+    <formline text="Name">
+        <textinput id="name" name="name" />
+    </formline>
+    <formline text="Root 1">
+        <textinput id="root1" name="root1" />
+    </formline>
+    <formline text="Root 2">
+        <textinput id="root2" name="root2" />
+    </formline>
+</dialogbox>

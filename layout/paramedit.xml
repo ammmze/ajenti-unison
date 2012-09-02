@@ -1,0 +1,8 @@
+<dialogbox id="dlgParamEdit">
+    <formline text="Name">
+        <textinput id="key" name="key" />
+    </formline>
+    <formline text="Value">
+        <textinput id="value" name="value" />
+    </formline>
+</dialogbox>

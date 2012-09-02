@@ -1,0 +1,25 @@
+<xml>
+    <toolbar>
+        <button id="addParam" text="Add Parameter" icon="/dl/core/ui/stock/add.png" />
+        <button id="cancelProfileEdit" text="Back" />
+        <button id="deleteProfile" text="Delete" icon="/dl/core/ui/stock/delete.png" />
+    </toolbar>
+ 
+    <label text="Profile" size="5" />
+ 
+    <pad id="main">
+        <dt id="profile_attributes" width="100%">
+            <dtr header="True">
+                <dth>
+                    <label text="Paramter Name" />
+                </dth>
+                <dth>
+                    <label text="Parameter Value" />
+                </dth>
+                <dth width="1">
+                    <label text="Actions" />
+                </dth>
+            </dtr>
+        </dt>
+    </pad>
+</xml>

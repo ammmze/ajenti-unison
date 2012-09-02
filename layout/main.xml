@@ -1,0 +1,29 @@
+<xml>
+    <toolbar>
+        <button id="add" text="Add profile" icon="/dl/core/ui/stock/add.png" />
+    </toolbar>
+ 
+    <label text="Unison Profiles" size="5" />
+ 
+    <pad id="main">
+        <dt id="profiles" width="100%">
+            <dtr header="True">
+                <dth>
+                    <label text="Name" />
+                </dth>
+                <dth>
+                    <label text="Root 1" />
+                </dth>
+                <dth>
+                    <label text="Root 2" />
+                </dth>
+                <dth>
+                    <label text="Status" />
+                </dth>
+                <dth width="1">
+                    <label text="Actions" />
+                </dth>
+            </dtr>
+        </dt>
+    </pad>
+</xml>
